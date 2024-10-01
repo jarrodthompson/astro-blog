@@ -24,10 +24,6 @@
 			"dest": "_render"
 		},
 		{
-			"src": "^\\/api\\/search\\.json\\/?$",
-			"dest": "_render"
-		},
-		{
 			"src": "^\\/articles\\/search\\/?$",
 			"dest": "_render"
 		},

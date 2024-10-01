@@ -2,7 +2,7 @@ import { c as createComponent, r as renderTemplate, m as maybeRenderHead, b as r
 import 'kleur/colors';
 import { $ as $$Image } from './_astro_assets_04wdIJuh.mjs';
 import 'clsx';
-import { g as getCollection } from './_astro_content_CA9klDM4.mjs';
+import { g as getCollection } from './_astro_content_DlrBeQ10.mjs';
 
 const logo = new Proxy({"src":"/_astro/ffb-white-b-bg-removebg.HThfkC4P.png","width":512,"height":164,"format":"png"}, {
 						get(target, name, receiver) {

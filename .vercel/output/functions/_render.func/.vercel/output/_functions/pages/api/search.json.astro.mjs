@@ -1,4 +1,4 @@
-import { g as getCollection } from '../../chunks/_astro_content_CA9klDM4.mjs';
+import { g as getCollection } from '../../chunks/_astro_content_DlrBeQ10.mjs';
 export { renderers } from '../../renderers.mjs';
 
 const GET = async ({ url }) => {

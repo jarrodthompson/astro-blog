@@ -371,7 +371,7 @@ const collectionToEntryMap = createCollectionToGlobResultMap({
 });
 
 let lookupMap = {};
-lookupMap = {"blog":{"type":"content","entries":{"best-trading-bots-for-forex-trading":"/src/content/blog/best-trading-bots-for-forex-trading.md","best-laptops-for-forex-traders-in-2024":"/src/content/blog/best-laptops-for-developers.md","best-ways-to-minimize-risk-in-forex-trading":"/src/content/blog/best-ways-to-minimize-risk-in-forex-trading.md","best-forex-trading-strategies-for-beginners":"/src/content/blog/best-forex-trading-strategies-for-beginners.md","immerse-in-the-virtual-world-vr-development":"/src/content/blog/immerse-in-the-virtual-world.md","unleash-creativity-with-these-cutting-edge-tablets":"/src/content/blog/unleash-creativity-with-these-cutting-edge-tablets.md","soaring-to-new-heights-the-world-of-drones":"/src/content/blog/world-of-drones.md"}}};
+lookupMap = {"blog":{"type":"content","entries":{"best-forex-trading-strategies-for-beginners":"/src/content/blog/best-forex-trading-strategies-for-beginners.md","best-laptops-for-forex-traders-in-2024":"/src/content/blog/best-laptops-for-developers.md","best-ways-to-minimize-risk-in-forex-trading":"/src/content/blog/best-ways-to-minimize-risk-in-forex-trading.md","immerse-in-the-virtual-world-vr-development":"/src/content/blog/immerse-in-the-virtual-world.md","unleash-creativity-with-these-cutting-edge-tablets":"/src/content/blog/unleash-creativity-with-these-cutting-edge-tablets.md","soaring-to-new-heights-the-world-of-drones":"/src/content/blog/world-of-drones.md","best-trading-bots-for-forex-trading":"/src/content/blog/best-trading-bots-for-forex-trading.md"}}};
 
 const collectionNames = new Set(Object.keys(lookupMap));
 

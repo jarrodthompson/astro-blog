@@ -1,1 +1,1 @@
-/// <reference path="https://astro-blog-green-tau.vercel.app/" />
+/// <reference path="../.astro/types.d.ts" />

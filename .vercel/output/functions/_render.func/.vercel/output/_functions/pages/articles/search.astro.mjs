@@ -1,8 +1,8 @@
 /* empty css                                    */
 import { c as createComponent, r as renderTemplate, b as renderComponent, d as createAstro, m as maybeRenderHead } from '../../chunks/astro/server_DQxrpetD.mjs';
 import 'kleur/colors';
-import { g as getCollection, $ as $$MainLayout } from '../../chunks/MainLayout_BZbDmfht.mjs';
-import { $ as $$ArticleCard } from '../../chunks/ArticleCard_C1L4mK7_.mjs';
+import { g as getCollection, $ as $$MainLayout } from '../../chunks/MainLayout_3YeyKAM6.mjs';
+import { $ as $$ArticleCard } from '../../chunks/ArticleCard_CVsTkpP6.mjs';
 import { $ as $$SearchForm } from '../../chunks/SearchForm_ghW04nyL.mjs';
 export { renderers } from '../../renderers.mjs';
 
